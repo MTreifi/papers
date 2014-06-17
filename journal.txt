@@ -1,5 +1,5 @@
 Title: Git Course
-Authors: M Treifi
+Authors: M Treifi, Paul M
 
 
 Introduction: Not sure yet
