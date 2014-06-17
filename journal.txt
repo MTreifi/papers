@@ -1,5 +1,7 @@
-Title: Git Course
-Authors: M Treifi, Paul M
+Authors: M Treifi, Paul M, John Smith
+
+Title: Git Course for workshop in Italy
+
 
 
 Introduction: Not sure yet
