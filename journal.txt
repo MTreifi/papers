@@ -1,6 +1,6 @@
-Title
+Title: Git Course
+Authors: M Treifi
 
-Author
 
 Introduction
 
