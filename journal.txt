@@ -2,7 +2,7 @@ Authors: M Treifi, Paul M, John Smith
 
 Title: Git Course for workshop in Italy
 
-
+{{{new trial for pushing after cloning}}}
 
 Introduction: Not sure yet
 
